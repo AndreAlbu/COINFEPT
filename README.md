@@ -24,7 +24,7 @@ Este projeto foi desenvolvido com fins **acadêmicos e de pesquisa**, visando:
 ![Seleção da UF](tela_inicial.png)
 
 ### Listagem de Municípios e Instituições
-![Lista de Municípios](tela_ceara.png)
+![Lista de Municípios](tela_uf_instituicoes.png)
 
 As imagens acima representam as telas automatizadas pelo bot durante a execução.
 

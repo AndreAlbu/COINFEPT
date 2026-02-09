@@ -48,6 +48,3 @@ As imagens acima representam as telas automatizadas pelo bot durante a execuçã
 - **Chrome + ChromeDriver**
 - **Pandas**
 - **Webdriver Manager**
-  
-## Estrutura do Projeto
-

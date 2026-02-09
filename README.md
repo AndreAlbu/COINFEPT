@@ -21,7 +21,7 @@ Este projeto foi desenvolvido com fins **acadêmicos e de pesquisa**, visando:
 
 ### Seleção da Unidade da Federação
 
-![Seleção da UF](images/sistec_uf.png)
+![Seleção da UF](tela_ceara.png)
 
 ### Listagem de Municípios e Instituições
 ![Lista de Municípios](images/sistec_municipios.png)
